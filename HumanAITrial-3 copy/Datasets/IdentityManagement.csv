@@ -1,0 +1,51 @@
+phrase,type
+"my name is [name]",set
+"i am called",set
+"i like to be called",set
+"people call me",set
+"call me",set
+"you can call me",set
+"i am called",set
+"do you remember my name",get
+"tell me my name",get
+"what did i say my name was",get
+"what is my name",get
+"change my name to",change
+"I would actually like to be called",change
+"i actually like to be called",change
+"I go by",set
+"You can refer to me as",set
+"Please call me",set
+"From now on, call me",set
+"They call me",set
+"Can you tell me my name?",get
+"What name did I give you?",get
+"Remind me what my name is",get
+"Did I tell you my name?",get
+"Do you remember what I told you to call me?",get
+"I changed my mind, call me",change
+"Please update my name to",change
+"I want you to use a different name",change
+"Let's change my name to",change
+"Could you update my name?",change
+"My nickname is",set
+"Everyone knows me as",set
+"I'd rather you call me",set
+"Introduce me as",set
+"Please remember me as",set
+"Do you know my name?",get
+"Can you recall what I told you about my name?",get
+"Have you memorized my name?",get
+"What do you call me?",get
+"Can you say my name?",get
+"I would like you to change my name to",change
+"Please change what you call me to",change
+"Let's update my name to",change
+"Change the name you use for me to",change
+"Start calling me",set
+"Just call me",set
+"I prefer to go by",set
+"Make sure you call me",set
+
+
+
